@@ -24,7 +24,7 @@ body {
 
 .full-screen-header {
   height: 100vh;
-  background-image: url("img/header_image.jpg");
+  background-image: url("images/header_image.jpg");
   background-size: cover;
   background-position-x: 40%;
   background-position-y: center;
