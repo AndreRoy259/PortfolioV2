@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap");
+
 * {
   box-sizing: border-box;
 }
@@ -7,7 +9,7 @@ html {
 
 body {
   margin: 0;
-  font-family: Montserrat, sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #1b2522;
 
   --title-duration: 500ms;
@@ -24,7 +26,7 @@ body {
 
 .full-screen-header {
   height: 100vh;
-  background-image: url("images/header_image.jpg");
+  background-image: url("../images/header_image.jpg");
   background-size: cover;
   background-position-x: 40%;
   background-position-y: center;
@@ -276,7 +278,7 @@ body {
 }
 
 .plan-price {
-  font-size: 2rem;
+  font-size: 1.25rem;
   font-weight: bold;
 }
 
